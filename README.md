@@ -92,3 +92,4 @@ import { TxRaw } from 'cosmjs-types/cosmos/tx/v1beta1/tx';
 [npm-url]: https://www.npmjs.com/package/@likecoin/iscn-js
 
 test
+test2
